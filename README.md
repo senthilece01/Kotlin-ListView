@@ -15,4 +15,4 @@ Build ListView with Custom Adapter in Kotlin
 
 Contact:
 
-Drop me an email if you want discuss anything further
+Drop me an email if you want to discuss anything further
