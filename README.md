@@ -13,6 +13,6 @@ Build ListView with Custom Adapter in Kotlin
 
 5. Combine all together
 
-Contact:
+# Contact:
 
 Drop me an email if you want to discuss anything further
