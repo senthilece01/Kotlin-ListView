@@ -16,6 +16,7 @@ Build ListView with Custom Adapter in Kotlin
 
 ### Screenshot :
 
+![screenshot_1537378114](https://user-images.githubusercontent.com/10756609/45770555-51cbe780-bc60-11e8-97d4-e3854b4da66d.png)
 
 ### Contact:
 
