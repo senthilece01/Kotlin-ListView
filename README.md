@@ -1,7 +1,7 @@
 # Kotlin-ListView
 ListView Example with custom Adapter Using Kotlin in Android Studio
 
-### Steps to follow
+### Steps to follow :
 Build ListView with Custom Adapter in Kotlin
 
 1. Add listview
